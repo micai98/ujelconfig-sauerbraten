@@ -12,3 +12,8 @@
 **To use portable mode on Windows:** download the repo and paste its contents into the game's root directory, then launch it using `sauerbraten_portable.bat`.  
   
 To install **without portable mode:** copy the contents of the `user` into the game's root directory, then launch the game normally.  
+
+---
+
+![screenshot1](https://cdn.discordapp.com/attachments/667901505420132375/1204208772705288302/Screenshot_2.png)
+![screenshot2](https://cdn.discordapp.com/attachments/667901505420132375/1204208773636562944/Screenshot_3.png)
